@@ -122,3 +122,59 @@ a {
   text-decoration: none;
   outline: none;
 }
+
+
+/* HEADER */
+
+header {
+  padding: 36px 0;
+  background-color: #fff;
+}
+header .wrapper {
+  width: 90.046%;
+  margin: 0 auto;
+}
+
+h1 {
+  width: 20.21%;
+  display: inline-block;
+}
+
+h1 a {
+  text-indent: -9999px;
+}
+
+h1 img {
+  width: 100%;
+  float: right;
+}
+
+.ham,
+.cross-nav {
+  display: none;
+}
+
+.hamburger {
+  float: right;
+}
+
+nav {
+  float: right;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav li a {
+  width: 100%;
+  font-size: 18px;
+  color: #4f4f4f;
+  font-weight: 500;
+  padding: 12px 14px;
+}
+
+nav li a:hover {
+  background-color: #00ba9c;
+  color: #b4e6de;
+}
