@@ -123,6 +123,22 @@ a {
   outline: none;
 }
 
+/* common class */
+.section-header {
+  margin-top: 62px;
+  font-size: 33px;
+  font-weight: 700;
+  color: #454545;
+}
+
+.section-brief {
+  margin-top: 14px;
+  display: inline-block;
+  font-size: 17px;
+  font-weight: 600;
+  color: #989898;
+}
+
 
 /* HEADER */
 
